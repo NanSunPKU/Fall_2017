@@ -62,7 +62,7 @@
             this.dataGridView1.Location = new System.Drawing.Point(55, 48);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(329, 154);
+            this.dataGridView1.Size = new System.Drawing.Size(491, 154);
             this.dataGridView1.TabIndex = 3;
             // 
             // deletedBtn
@@ -70,7 +70,7 @@
             this.deletedBtn.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.deletedBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.deletedBtn.ForeColor = System.Drawing.Color.Red;
-            this.deletedBtn.Location = new System.Drawing.Point(410, 48);
+            this.deletedBtn.Location = new System.Drawing.Point(568, 48);
             this.deletedBtn.Name = "deletedBtn";
             this.deletedBtn.Size = new System.Drawing.Size(35, 23);
             this.deletedBtn.TabIndex = 4;
@@ -82,7 +82,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(470, 284);
+            this.ClientSize = new System.Drawing.Size(615, 291);
             this.Controls.Add(this.deletedBtn);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.saveBtn);

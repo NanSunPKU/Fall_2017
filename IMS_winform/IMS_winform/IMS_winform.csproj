@@ -45,6 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Type.cs" />
+    <Compile Include="Repository\TypeRepository.cs" />
     <Compile Include="Type.cs">
       <SubType>Form</SubType>
     </Compile>
